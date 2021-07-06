@@ -31,7 +31,7 @@ h1{
 
 section{
     display: flex;
-    margin: 5% 0;
+    margin: 4% 0;
     
 }
 
@@ -52,7 +52,7 @@ section{
 }
 
 #sec02-paragraph{
-    padding-right: 25%;
+   padding-right: 25%;
    line-height: 200%;
    text-align: justify;
 }
@@ -61,6 +61,17 @@ section{
 background-image: url(images/shapes/Frame\ 57.jpg);
 background-size: cover;
 }
-
+#recipies{
+    text-align: center;
+    line-height: 200%;
+}
+#recipies-next{
+    padding-right: 25%;
+    line-height: 150%;
+    text-align: center;
+    padding: 0 30%;
+    font-weight: 500;
+    font-size: 20px;
+}
 
 
