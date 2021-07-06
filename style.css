@@ -1,0 +1,43 @@
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.chrome-yellow{
+  color: #ffa801
+}
+
+body p{
+    color: gray;
+    font-size: 18px;
+}
+
+.order-button{
+    background-image: linear-gradient(#373b44,#ffa801);
+    color: whitesmoke;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 10px 25px ;
+    border-radius: 25px;
+}
+
+section{
+    display: flex;
+    margin-left: 7%;
+    margin-top: 15%;
+}
+
+.partial-width{
+    width: 50%;
+}
+
+.partial-width img{
+    width: 90%;
+    margin-top: -20%;   
+}
+
+
