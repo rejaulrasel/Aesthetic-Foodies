@@ -38,10 +38,23 @@ transition: 2s;
     line-height: 150%;
 }
 #r{
-    background: cyan;
-    margin-top: -27px;
+    background: rgba(159, 151, 202, 0.411);
+    margin-top: -30px;
     margin-bottom: 50px;
+    transition: 2s;
 }
+#promocode{
+    text-align: center;
+    box-shadow: 10px 10px 30px 5px red;
+    background-image: radial-gradient(#333333,#dd1820);
+    margin: 100px 450px;
+    padding: 10px 0;
+    border-radius: 50px;
+    color: white;
+    
+    
+}
+
 
 h1{
     font-size: 35px;
