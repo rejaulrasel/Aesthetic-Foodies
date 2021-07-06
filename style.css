@@ -10,6 +10,7 @@ body{
     transition: 2s;
     border-radius: 8px;
 }
+
 .delevary-area{
     margin: 5px 20px;
     height: 60px;
@@ -33,20 +34,23 @@ transition: 2s;
     margin-top: 12px;
     border-radius: 15px;
 }
+
 #Afoodies{
     margin-left: 130px;
     line-height: 150%;
 }
+
 #r{
     background: rgba(159, 151, 202, 0.411);
     margin-top: -30px;
     margin-bottom: 50px;
     transition: 2s;
 }
+
 #promocode{
     text-align: center;
     box-shadow: 10px 10px 30px 5px red;
-    background-image: radial-gradient(#333333,#dd1820);
+    background-image: linear-gradient(#333333,#dd1820);
     margin: 100px 450px;
     padding: 10px 0;
     border-radius: 50px;
@@ -54,7 +58,6 @@ transition: 2s;
     
     
 }
-
 
 h1{
     font-size: 35px;
@@ -114,11 +117,13 @@ h1{
 background-image: url(images/shapes/Frame\ 57.jpg);
 background-size: cover;
 }
+
 #recipies{
     text-align: center;
     line-height: 200%;
     font-size: 40px;
 }
+
 #recipies-next{
     padding-right: 25%;
     line-height: 150%;
@@ -127,7 +132,6 @@ background-size: cover;
     font-weight: 500;
     font-size: 20px;
 }
-
 
 #sec03{
     margin-left: 70px;
@@ -166,5 +170,24 @@ footer{
     background-image: linear-gradient(#141e30,#243b55);
     padding: 1px 0 15px;
     color:white;
-    margin-top: 150px;
+    margin-top: 100px;
+}
+
+#follow{
+    text-align: center;
+    box-shadow: 5px 5px 20px red;
+    background-image: linear-gradient(blue,red);
+    margin: 50px 550px;
+    padding: 10px 0;
+    border-radius: 50px;
+    color: white;
+    
+}
+
+#follow-margin{
+    margin-left: 420px;
+}
+
+.follow-us{
+    margin-left: 40px;
 }
