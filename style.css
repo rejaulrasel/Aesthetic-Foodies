@@ -3,6 +3,46 @@ body{
     margin: 0;
 }
 
+#area{
+    width: 500px;
+    height: 60px;
+    margin: 5px 20px; 
+    transition: 2s;
+    border-radius: 8px;
+}
+.delevary-area{
+    margin: 5px 20px;
+    height: 60px;
+}
+
+.delevary-pick-button{
+background-image: linear-gradient(red,blue);
+text-decoration: none;
+padding: 17px 15px 17px;
+color: white;
+font-weight: 700;
+border-radius: 10px;
+transition: 2s;
+}
+
+#box-shadow2{
+    box-shadow: 2px 2px 15px  gray;
+    margin-left: 125px;
+    margin-right: 200px;
+    margin-bottom: 15px;
+    margin-top: 12px;
+    border-radius: 15px;
+}
+#Afoodies{
+    margin-left: 130px;
+    line-height: 150%;
+}
+#r{
+    background: cyan;
+    margin-top: -27px;
+    margin-bottom: 50px;
+}
+
 h1{
     font-size: 35px;
     
@@ -29,9 +69,9 @@ h1{
     border-radius: 25px;
 }
 
-section{
+.flexible{
     display: flex;
-    margin: 4% 0;
+    margin-bottom: 10%;
     
 }
 
@@ -43,7 +83,7 @@ section{
 
 #sec01-partial-img-width{
     width: 70%;
-    margin-top: -2%;   
+    margin-top: -1%;   
 }
 
 #sec02-partial-img-width{
